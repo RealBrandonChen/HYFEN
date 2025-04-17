@@ -1,5 +1,5 @@
 # HYFEN
-This respoitory includes the software for the calibration and imaging of the paper "". Conventional multimode fiber (MMF) imaging can also be drived with the repository.
+This respoitory includes the software for the calibration and imaging of the paper "High-Resolution Fluorescence Endoscopy via Flexible Hydrogel Optical Fibers". Conventional multimode fiber (MMF) imaging system can also be drived with the repository.
 
 ## Software environment setup
 1. Install Anaconda Navigator, Visual Studio Code, and Git
@@ -26,8 +26,9 @@ PixelFormat:`"Mono10"`
 ExposureTime: `1000`
 TriggerMode: `ON`
 ### Photomultiplier tube (PMT) Thorlabs PMT2101
-Sample rate:`d`
-Gain: `d`
+Bandwith: `250 kHz`
+Gain: `1`
+Output offset: `-0.022 V`
 
 ## Experimental step
 ### A. Hadamard basis generation

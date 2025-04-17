@@ -1,0 +1,9 @@
+numpy
+ALP4Lib
+matlabengine == 23.2.1
+pypylon == 3.0.0
+opencv-python
+nidaqmx
+pyqtgraph
+PyQt5
+cuda-python == 12.4.0

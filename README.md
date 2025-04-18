@@ -43,7 +43,7 @@ Align the fiber imaging plane with the sample plane. Run `step3_pointScanningFlu
 ## Creators
 Peng Chen@[Github](https://github.com/RealBrandonChen)
 ## Acknowledgments
-Design files and source code for fiber microscope[^1]
+Design files and source code for fiber microscope[^1]\
 DMD Python control module[^2]
 [^1]: [The DiCarlo Lab at MIT](https://github.com/dicarlolab)
 [^2]: [ALP4lib](https://github.com/wavefrontshaping/ALP4lib)
